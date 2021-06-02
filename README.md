@@ -1,4 +1,5 @@
 ![developer](https://img.shields.io/badge/Developed%20by-Raman%20Dixit-green)
+##
 This is a News app  that uses [volley](https://github.com/google/volley), [glide](https://github.com/bumptech/glide) and powered by [News API](https://newsapi.org/)
 .
 
